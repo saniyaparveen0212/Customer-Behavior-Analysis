@@ -28,7 +28,7 @@ Version control and project documentation
 # 📂 Project Workflow
 The project follows these major stages:
 
-1. Data Exploration
+# 1. Data Exploration
 The raw dataset was explored using Python to understand:
 
 Dataset structure
@@ -39,7 +39,8 @@ Duplicate records
 Customer demographics
 Purchasing behavior
 Key numerical and categorical variables
-2. Data Cleaning
+
+# 2. Data Cleaning
 The dataset was prepared for analysis by performing tasks such as:
 
 Handling missing values
@@ -48,7 +49,8 @@ Correcting data types
 Standardizing categorical values
 Identifying potential outliers
 Preparing the final dataset for SQL analysis
-3. SQL Database Creation
+
+# 3. SQL Database Creation
 A relational database was created to store the cleaned customer behavior data.
 
 The workflow includes:
@@ -57,7 +59,7 @@ Python → Cleaned Dataset → SQL Database
 
 The cleaned data was loaded into a SQL database using Python.
 
-4. Load Data into SQL
+# 4. Load Data into SQL
 Python was used to establish a connection with the SQL database and upload the processed dataset.
 
 The project supports working with databases such as:
@@ -65,7 +67,7 @@ The project supports working with databases such as:
 MySQL
 PostgreSQL
 Microsoft SQL Server
-5. Business Analysis Using SQL
+# 5. Business Analysis Using SQL
 SQL queries were created to answer important business questions related to customer behavior.
 
 Examples of analysis include:
@@ -83,7 +85,7 @@ The SQL queries used for the analysis are available in:
 
 customer_behavior_sql_queries.sql
 
-6. Power BI Dashboard
+# 6. Power BI Dashboard
 The SQL database was connected to Power BI to create an interactive customer behavior dashboard.
 
 The dashboard provides a visual overview of important business metrics and customer trends.
@@ -102,7 +104,7 @@ Power BI project file:
 
 customer_behavior_dashboard.pbix
 
-7. Project Report
+# 7. Project Report
 A project report was prepared to document:
 
 Business problem
@@ -113,5 +115,6 @@ SQL analysis
 Power BI dashboard
 Key findings
 Business recommendations
-8. Presentation
+
+# 8. Presentation
 A presentation deck was created to summarize the project, methodology, dashboard, findings, and recommendations.
