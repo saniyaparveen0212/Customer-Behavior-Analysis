@@ -1,12 +1,14 @@
-Customer Behavior Analysis – End-to-End Data Analytics Project
-📌 Project Overview
-This project focuses on analyzing customer behavior and purchasing patterns using Python, SQL, and Power BI.
+#Customer Behavior Analysis – End-to-End Data Analytics Project
 
+#📌 Project Overview
+
+This project focuses on analyzing customer behavior and purchasing patterns using Python, SQL, and Power BI.
 The project follows an end-to-end data analytics workflow, starting from data exploration and cleaning in Python, moving the processed data into a SQL database for business analysis, and finally connecting the database to Power BI to build an interactive dashboard.
 
 The goal is to transform raw customer data into meaningful business insights that can support better decision-making.
 
-🛠️ Technologies & Tools
+#🛠️ Technologies & Tools
+
 Python
 Pandas
 NumPy
@@ -22,7 +24,8 @@ Gamma AI
 Presentation / project deck
 Git & GitHub
 Version control and project documentation
-📂 Project Workflow
+
+#📂 Project Workflow
 The project follows these major stages:
 
 1. Data Exploration
